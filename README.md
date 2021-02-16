@@ -26,3 +26,8 @@ Used the same class (.benefit img) for .benefit-lead img, .benefit-brand img and
 Used the same class (.featured) for .search-engine-optimization, .online-reputation-management and .social-media-marketing
 Used the same class (.featured img) for .search-engine-optimization h2, .online-reputation-management h2 and .social-media-marketing h2
 Used the same class (.featured img) for .search-engine-optimization img, .online-reputation-management img and .social-media-marketing img
+
+
+IMAGES
+
+Optimized the images
