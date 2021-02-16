@@ -10,6 +10,8 @@ Changed <div class="benefits"> to <aside>
 Changed <div> inside the main and aside columns to <article> 
 Changed <div class="footer"> to <footer> 
 
+Deleted "&copy;" from the footer text.
+
 Added alt properties for each image with a description
 
 Used the same class (.featured) for .search-engine-optimization, .online-reputation-management and .social-media-marketind and deleted the id tag for online-reputation-management and social-media-marketind
