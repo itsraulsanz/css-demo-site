@@ -1,5 +1,5 @@
 
-##### HTML
+**HTML**
 
 Changed the title "website" to "Horiseon Social Solution Services"
 
@@ -21,7 +21,7 @@ Used the same class (.featured) for .search-engine-optimization, .online-reputat
 Deleted the id tag for online-reputation-management and social-media-marketind
 
 
-##### CSS
+**CSS**
 
 Used the same class (.featured) for .search-engine-optimization, .online-reputation-management and .social-media-marketing
 Used the same class (.featured img) for .search-engine-optimization h2, .online-reputation-management h2 and .social-media-marketing h2
@@ -32,12 +32,12 @@ Used the same class (.benefit h3) for .benefit-lead h3, .benefit-brand h3 and .b
 Used the same class (.benefit img) for .benefit-lead img, .benefit-brand img and .benefit-cos img
 
 
-##### IMAGES
+**IMAGES**
 
 Optimized the images for web
 
 
-##### DEPLOYED APPLICATION
+**DEPLOYED APPLICATION**
 
 <a href="https://itsraulsanz.github.io/css-demo-site/">https://itsraulsanz.github.io/css-demo-site/</a>
 <img src="screenshot.jpg">
