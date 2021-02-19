@@ -1,3 +1,4 @@
+# 01 HTML CSS Git: Code Refactor
 
 **HTML**
 
@@ -39,6 +40,6 @@
 
 **DEPLOYED APPLICATION**
 
-<a href="https://itsraulsanz.github.io/css-demo-site/">https://itsraulsanz.github.io/css-demo-site/</a>
+<a href="https://itsraulsanz.github.io/week1-css-demo-site/">https://itsraulsanz.github.io/week1-css-demo-site/</a>
 
 <img src="screenshot.jpg">
