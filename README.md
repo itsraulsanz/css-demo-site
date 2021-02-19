@@ -1,8 +1,19 @@
 # 01 HTML CSS Git: Code Refactor
 
+## Description
+
+This repository contains the refactored Horiseon website to achieve an accessible website with a cleaner code and a sustainable codebase.
+
+
+## Improvements
+
 **HTML**
 
 - Changed the title "website" to "Horiseon Social Solution Services"
+
+- Added alt properties for each image with a description
+
+- Added the id tag into the main 3 sections, to make the nav links work
 
 - Changed div class="header" to header
 - Changed the div who contained the menu to nav
@@ -11,15 +22,11 @@
 - Changed div> inside the main and aside columns to article 
 - Changed div class="footer" to footer
 
-- Deleted "& copy;" from the footer text.
-
-- Added alt properties for each image with a description
-
-- Added the id tag into the main 3 sections, to make the nav links work
-
 - Used the same class (.featured) for .search-engine-optimization, .online-reputation-management and .social-media-marketing
 - Deleted the id tag for online-reputation-management and social-media-marketing
 - Used the same class (.benefit) for .benefit-lead, .benefit-brand and .benefit-cos
+
+- Deleted "& copy;" from the footer text.
 
 
 **CSS**
@@ -35,11 +42,11 @@
 
 **IMAGES**
 
-- Optimized the images for web
+- Reduced the file size of the images (web images optimization)
 
 
-**DEPLOYED APPLICATION**
+## Deployed Application
 
-<a href="https://itsraulsanz.github.io/week1-css-demo-site/">https://itsraulsanz.github.io/week1-css-demo-site/</a>
+Website URL: <a href="https://itsraulsanz.github.io/week1-css-demo-site/">https://itsraulsanz.github.io/week1-css-demo-site/</a>
 
 <img src="screenshot.jpg">
